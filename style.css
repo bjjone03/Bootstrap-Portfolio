@@ -1,0 +1,36 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+.row {
+    background-color: white;
+    height: 400px;
+}
+h3 {
+    color: rgb(27, 160, 160);
+}
+
+.Nabar-brand {
+    color: rgb(27, 160, 160);
+}
+.btn btn-secondary btn-sm {
+    background-color: rgb(27, 160, 160);
+}
+
+.footer p {
+    background-color: rgb(27,160,160);
+    color: white;
+}
+img {
+    transform: rotate(90deg);
+}

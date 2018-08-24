@@ -1,0 +1,26 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: lightgrey;
+}
+.row {
+    background-color: white;
+    height: 400px;
+}
+
+h2 {
+    color: rgb(27,160,160);
+}
+
+p {
+    background-color: rgb(27,160,160);
+    color: white;
+}
